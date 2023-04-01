@@ -1,4 +1,4 @@
-# Efood_Assessment
+# efood_Assessment
 
 This repository contains all the required files with the solutions to the given assessment. For the first part of the assessment, the solution to the first 
 and the second query are found in the accordingly named txt files. You can copy paste the code and run it. Additionally, you can find here the Bigquery link
