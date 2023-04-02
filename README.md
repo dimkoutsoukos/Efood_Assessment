@@ -11,3 +11,7 @@ For the second part of the assessment, the tool used to solve the business probl
 
 Part II solution: "https://colab.research.google.com/drive/1aIPID6urYZhbBvUZW6shA6J3UWOlDu5C?usp=sharing"
 
+Additionally a ppt file is added, named "User Analysis - Part II", that contains the power point presentation targeting C-Level and BI team presentation of the analysis results.
+
+
+
