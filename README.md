@@ -13,5 +13,6 @@ Part II solution: "https://colab.research.google.com/drive/1aIPID6urYZhbBvUZW6sh
 
 Additionally a ppt file is added, named "User Analysis - Part II", that contains the power point presentation targeting C-Level and BI team presentation of the analysis results.
 
+For the third and last part of the assessment, the solution is found in the PDF file named "Part III - Visualization". Short comments and suggestions are found in the pdf, while the reports are described. 
 
-
+In case you have any question or probelm with the files, please contact me!
